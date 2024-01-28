@@ -216,7 +216,7 @@ section {
 }
 
 .section__text__p2 {
-    font-size: 1.75rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
     color: aliceblue;
 }
@@ -324,7 +324,7 @@ section {
 .details-container {
     padding: 1.5rem;
     flex: 1;
-    background: white;
+    background: #D1E8E2;
     border-radius: 2rem;
     border: #116466 0.1rem solid;
     border-color: #116466;
@@ -333,7 +333,7 @@ section {
 
 .section-container {
     gap:4rem;
-    height: 80%;
+    height: 70%;
 }
 
 .section__pic-container1 {
@@ -348,6 +348,11 @@ section {
 .section__pic-container1 :hover {
     box-shadow: 5px 5px 9px 9px #D1E8E2;
     transition-duration: 10ms ease-in-out;
+    border-radius: 90px;
+}
+
+.text-container {
+    text-decoration-color: #D1E8E2;
 }
 
 
