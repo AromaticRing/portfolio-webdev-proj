@@ -238,7 +238,7 @@ section {
 
 .icon {
     cursor: pointer;
-    height: 3.5rem;
+    height: 2.5rem;
 }
 
 /* Buttons */
@@ -352,7 +352,11 @@ section {
 }
 
 .text-container {
-    text-decoration-color: #D1E8E2;
+    align-self: center;
+}
+
+.text-container-details {
+    color: #D1E8E2;
 }
 
 
